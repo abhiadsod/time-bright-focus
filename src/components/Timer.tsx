@@ -129,7 +129,7 @@ export function Timer() {
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-            FocusTimer
+            Big Screen Timer
           </h1>
           <p className="text-muted-foreground text-lg">
             Distraction-free timer and stopwatch for productivity

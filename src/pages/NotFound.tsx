@@ -17,7 +17,7 @@ const NotFound = () => {
         <h1 className="text-4xl font-bold mb-4 text-foreground">404</h1>
         <p className="text-xl text-muted-foreground mb-4">Oops! Page not found</p>
         <a href="/" className="text-primary hover:text-primary-hover underline transition-colors">
-          Return to FocusTimer
+          Return to Big Screen Timer
         </a>
       </div>
     </div>
